@@ -1,3 +1,6 @@
+School information system for Pre primary schools in South Africa.
+Designed to run on a Raspberry Pi
+
 1. Copy the Web file to your Apache directory (/var/www/ or /var/www/html/ usually).
 2. Put the dbpass.txt file once branch up from the Apache directory (/var/ or /var/www/ for above) so that it is not public.
 
