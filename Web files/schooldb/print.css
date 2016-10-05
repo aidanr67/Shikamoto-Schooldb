@@ -1,0 +1,27 @@
+#menu {
+	display: none;
+}
+
+.actions {
+	display: none;
+}
+
+#adminform {
+	border-style: none;
+}
+
+#main {
+	border-style: none;
+}
+
+.accounttable, td, th {
+	padding: 5px;
+}
+
+#logo {
+	display: none;
+}
+
+.noprint {
+	display: none;
+}

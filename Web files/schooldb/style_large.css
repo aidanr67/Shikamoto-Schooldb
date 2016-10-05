@@ -1,0 +1,171 @@
+
+/*----------------------------------------------
+CSS setting for Student administration large screen
+------------------------------------------------*/
+body {
+	background-color: #e0ebeb;
+}
+
+#main {
+	width: 1000px;
+	background-color: white;
+}
+
+#login {
+	width: 500px;
+	margin: auto auto 40px auto;
+	padding: 0px 20px 40px 40px;
+}
+
+#adminform {
+	margin: 40px;
+}
+
+#menu {
+	margin: 40px 150px 40px 150px;
+	background-color: #e0ebeb;
+	padding: 5px 10px 5px 10px;
+}
+
+#logoutbutton {
+	float: right;
+	width: 160px;
+	height: 40px;
+	font-size: 1.2em;
+}
+
+#logo {
+	position: absolute;
+	right: 40px;
+	top: 40px;
+}
+
+select {
+	margin-left: 20px;
+}
+
+.forminput, #forminput, .staff, .noteditable, .nok,
+.noteditable, .student, .primary, .secondary {
+	margin: auto 20px auto auto;
+	width: 60%;
+	float: right;
+}
+
+.otherinput {
+	margin: auto 20px auto auto;
+	width: 60%;	
+}
+
+.logininput {
+	width: 60%;
+	float: right;
+	margin-right: 40px;
+}
+
+.findinput {
+	width: 80%;
+}
+
+.findtable {
+	width: 80%;
+	margin: auto auto 40px auto;
+	padding: 0px;
+}
+.accounttable {
+	width: 70%;
+	margin: auto auto 40px auto;	
+}
+
+.removebutton {
+	position: absolute;
+	right: 200px;
+	top: 250px;
+	margin: 10px 10px 10px auto;
+	height: 40px;
+	width: 200px;
+	text-align: center;
+	font-size: 1em;
+}
+
+.searchbutton {
+	margin: auto 380px auto auto;
+	width: 20%;
+	float: right;
+}
+
+textarea {
+	float: right;
+	margin-right: 20px;
+	width: 60%;
+}
+
+p, h3, h4 {
+	margin-left: 20px;
+}
+
+input[type=submit] {
+	width: 60%;
+	left: 50%;
+	margin: 40px auto 20px 160px;
+	height: 40px;
+	
+}
+
+/* Dropdown menus */
+.dropbtn{
+	height: 50px;
+	width: 150px;
+	margin-right: 20px;
+	font-size: 1.2em;
+}
+
+.dropdown {
+
+}
+
+.dropdown-content {
+	padding: 5px 5px 5px 5px;
+}
+
+.dropdown-content a {
+
+}
+
+#accountbutton {
+	width: 100px;
+	margin: 10px 20px 10px 20px; 
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#editbutton {
+	float: right;
+	width: 100px;
+	height: 40px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#smalleditbutton {
+	width: 80px;
+}
+
+.edittablecolumn {
+	width: 80px;
+}
+
+#addstudentbutton {
+	float: right;
+	width: 100px;
+	height: 60px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.topspacer {
+	height: 150px;
+}
+
+.adminspacer {
+	height: 40px;
+}

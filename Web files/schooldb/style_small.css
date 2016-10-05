@@ -1,0 +1,165 @@
+
+/*----------------------------------------------
+CSS setting for Student administration for mobiles
+------------------------------------------------*/
+
+#main {
+	width: 100%;
+	border-color: white;
+}
+
+body {
+	font-size: 20px;
+}
+
+#adminform {
+	width: 90%;
+	margin: 10px;
+	margin-bottom: 25px;
+}
+
+.tablecontainer {
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+#menu {
+	padding-bottom: 10px;
+}
+
+.dropdown {
+	width: 100%;
+}
+
+.dropbtn {
+	width: 100%;
+	height: 100px;
+	font-size: 400%;
+}
+.dropdown-content {
+	width: 100%;
+	font-size: 100px;
+}
+
+#logoutbutton {
+	width: 100%;
+	height: 100px;
+	font-size: 400%;
+	margin-top: 10px;
+}
+
+.forminput, #forminput {
+	width: 90%;
+	margin-left: 10px;
+}
+
+label {
+	font-size: 150%;
+}
+
+select {
+	font-size: 150%;
+	margin-bottom: 20px;
+}
+
+input[type=text], input[type=password], input[type=date] {
+	height: 80px;
+	font-size: 150%;
+}
+
+input[type=checkbox] {
+	margin: auto;
+	transform: scale(2);
+	-webkit-transform: scale(2);
+}
+
+input[type=submit] {
+	width: 90%;
+	height: 80px;
+	margin-left: 15px;
+	margin-bottom: 10px;
+	font-size: 250%
+}
+
+p, h3, h4 {
+	margin-left: 10px;
+}
+
+p {
+	font-size: 1em;
+}
+
+.findinput {
+	width: 90%;
+}
+
+select {
+	margin-left: 15px;
+	width: 90%;
+}
+
+option {
+	font-size: 2em;
+}
+
+#editbutton {
+	width: 90%;
+	height: 80px;
+	margin: 10px;
+	margin-bottom: 20px;
+	font-size: 250%;
+}
+
+#addstudentbutton {
+	width: 90%;
+	height: 80px;
+	margin: 10px auto auto 15px;
+	font-size: 250%;
+}
+
+.removebutton {
+	width: 90%;
+	height: 99%;
+	margin: 10px;
+	padding: 0px;
+	font-size: 200%;
+	margin-right: 80px;
+	text-align: center;
+}
+
+.findtable {
+	width: 90%;
+	margin: auto auto 40px auto; 
+	font-size: 150%;
+}
+
+#accountbutton {
+	width: 90%;
+	height: 80px;
+	font-size: 250%;
+	margin-bottom: 2px;
+	margin-left: 15px;
+}
+
+#logo {
+	position: absolute;
+	left: 5px;
+	top: 30px;
+}
+
+h1 {
+	margin-left: 90px;
+}
+
+#smalleditbutton {
+	width: 80px;
+	height: 46px;
+}
+
+.edittablecolumn {
+	width: 80px;
+}
+
+#right {
+	margin-right: 20px;
+}
